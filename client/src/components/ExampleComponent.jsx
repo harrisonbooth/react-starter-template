@@ -1,6 +1,6 @@
 import React from 'react';
 
-class ExampleComponent {
+class ExampleComponent extends React.Component {
   constructor() {
     this.state = {initialStates: initialValues};
     this.functions = functions;
